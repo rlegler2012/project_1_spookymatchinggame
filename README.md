@@ -10,7 +10,7 @@
 ![Alt text](images/Screenshot%202023-03-11%20at%203.29.03%20AM.png)
 
 ##**Getting Started:**
-link to game:
+link to game: https://rlegler2012.github.io/project_1_spookymatchinggame/
 
 ##**Next Steps**
 - To get a functional alert to let the winner know they won the game.
