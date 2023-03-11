@@ -1,5 +1,5 @@
 #**SPOOKY MEMORY GAME**
-*This game is a memory game to match all the spooky characters together. There are 8 pairs of *spooky characters. If you match all the spooky characters correctly, you win!
+*This game is a memory game to match all the spooky characters together. There are 8 pairs of spooky characters. If you match all the spooky characters correctly, you win!
 
 ##**Technologies Used:**
 - HTML
@@ -7,7 +7,7 @@
 - Javscript
 
 ###**ScreenShot:**
-![file:///Users/raquellegler/Desktop/GA/Projects/project_1_memorygame_2.0/index.html](file:///Users/raquellegler/Desktop/GA/Projects/project_1_memorygame_2.0/index.html)
+![Alt text](images/Screenshot%202023-03-11%20at%203.29.03%20AM.png)
 
 ##**Getting Started:**
 link to game:
